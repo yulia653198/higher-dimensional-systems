@@ -1,0 +1,2 @@
+n,m,N,dt,T,gammaFFn,gammaLFn,gammaFF,gammaLF,deltaFF,deltaLF,varrhoFF,varrhoLF
+6,3,6,0.01,12,14.54,0.5,0.943729225924046,5e-07,0.1,0.08,0.8,0.6
